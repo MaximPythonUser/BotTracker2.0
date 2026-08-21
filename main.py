@@ -2,7 +2,6 @@ import os
 import asyncio
 from datetime import datetime
 from sys import prefix
-
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from dotenv import load_dotenv
